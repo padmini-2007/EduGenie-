@@ -1,0 +1,8 @@
+__pycache__/
+__pycache__/main.cpython-312.pyc
+core/__pycache__
+models/__pycache__
+.env
+env/
+env/Lib/site-packages/
+.DS_Store
